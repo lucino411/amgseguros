@@ -1,0 +1,120 @@
+/*
+	@pkage blastingexpertstheme
+
+	Variables
+*/
+
+$carousel-height: 668px;
+
+/*
+======================================= 
+Single Product Accordion
+======================================= 
+*/
+
+$pindent: 40px;
+$pindent-sub: + p;
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* Fuentes */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+$icon-font : 'be-icons';
+// $body-font : 'Raleway',
+// 'Helvetica Neue',
+// 'Helvetica',
+// Arial,
+// Verdana,
+// sans-serif;
+$body-font: 'roboto', sans-serif;
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* Colores */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+$btn-whatsapp: #00E676;
+$btn-background: #0D2330;
+$primary-color : #000000;
+$dark-grey : #444444;
+$grey: #656565;
+$grey2: #CBCBCB;
+$light-grey : #898989;
+$lighter-grey :#e6e6e6;
+// $be-color: #286E97;
+// $be-color: rgb(252, 113, 58);
+$be-color: #F66431;
+$be-yellow: #ffcb00;
+$orange : #ff9d1d;
+$orange-hover : #F56B08;
+$footer-background: #2f2f31;
+$sidebar-background: rgba(0, 0, 0, 0.6);
+$sidebar-background: rgba(0, 0, 0, 0.8);
+$megamenu-background: rgba(0, 0, 0, 0.8);
+// $text-muted:#6c757d!important;
+$text-muted: #999999 !important;
+
+
+//de latincorrosion
+
+$footer-text: #ffffff;
+$footer-p: #bfbfbf;
+$latin-red: #ee2737;
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* Media Queries */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ULTRA LARGE */
+$ultratvone: 3840px;
+$ultratvtwo: 3440px;
+$ultratvthree: 2560px;
+$ultratvfour: 2160px;
+$ultratvfive: 2048px;
+
+
+/* EXTRA LARGE */
+$first: 1920px;
+// $tvtwo: 1536px;
+$tvtwo: 1880px;
+// $tvone-plus: 1440px;
+$tvone-plus: 1500px;
+$tvone-add: 1367px;
+$tvone: 1366px;
+$extra-large-add: 1330px;
+$extra-large: 1280px;
+$extra-large-less: 1199px; // hasta aqui llega el megamenu  en el sidebar. A partir de 1200 pasa a tener 7 elementos en el menu principal
+$large-big: 1080px;
+$large-medium: 1024px;
+
+/* LARGE */
+$large: 992px;
+$ipad-pro-add: 980px;
+$ipad-pro: 834px;
+$ipad-pro-less: 833px;
+$medium-plus: 769px;
+$medium: 768px;
+$medium-less: 767px;
+
+/* MEDIUM */
+$lumia: 640px;
+$medium-small: 600px;
+
+/* SMALL */
+$small-plus: 577px;
+$small: 576px;
+$small-less: 575px;
+
+/* EXTRA SMALL */
+$extra-small: 449px;
+$extra-small-less: 384px;
+$ultra-small: 360px;
+$ultra-small-less: 320px;
+
+
+
+
+
+
